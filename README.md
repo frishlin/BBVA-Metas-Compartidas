@@ -14,7 +14,7 @@ Empecemos conociendo al _Customer Journey_ para no solo implementar la funcional
 
 Realizamos una encuesta con preguntas basadas en respuesta, con la cual pudimos obtener los resultados que necesitábamos para definir a nuestro User Persona.
 
-La encuesta puede verse en _[Encuesta BBVA Plan Metas Compartidas](https://goo.gl/forms/L0jNy1lhYq3Jwfl13)_ 
+La encuesta completa puede verse en _[Encuesta BBVA Plan Metas Compartidas](https://goo.gl/forms/L0jNy1lhYq3Jwfl13)_ 
 
 ![encuesta](https://user-images.githubusercontent.com/32878468/40343062-a8972bea-5d53-11e8-84f3-1f1497f4c059.png)
 
@@ -24,10 +24,12 @@ Con base en los resultados, pudimos definir dos perfiles de usuario, los cuales 
 
 ![usuarios](https://user-images.githubusercontent.com/32878468/40336757-3f7365f6-5d31-11e8-8786-a75deb383497.png)
 
-Según nuestras investigaciones, las personas que utilizan esta app son en su mayoría mujeres, con un rango de edad entre los 23 a 35 años, por lo que decidimos orientar nuestra propuesta no solo a esta público mediante una propuesta de fidelización, sino también, atraer nuevo público, que en este caso son los jóvenes a partir de los 17 años que, por concepto de beca, ya han tenido uso de tarjetas de débito o ahorro y que fácilmente podrían ser atraidos a utilizar esta app y abrir una cuenta con BBVA Bancomer para este fin, así como invitar a sus amigos, familiares o conocidos a probar esta app, principalmente para el uso de la funcionalidad de Meta Compartida.
+Según nuestra investigación, las personas que utilizan la app BBVA Plan, son en su mayoría mujeres, con un rango de edad entre los 23 a 35 años, por lo que decidimos orientar nuestra solución no solo a este usuario mediante una propuesta de fidelización, sino también, atraer un usuario jóven (quien está aprendiendo a administrar sus gastos) y que en este caso serán personas de 17 a 23 años que, por concepto de beca, ya han tenido uso de tarjetas de débito o ahorro y que fácilmente podrían ser atraidos a utilizar esta app, abriendo una cuenta de ahorro Winner Card BBVA Bancomer (en el caso de los menores de edad); o bien, abriendo una cuenta de ahorro BBVA Bancomer para los mayores de edad, con la ventaja de que ahora ya no se requiere acudir a la sucursal para hacerlo.
+
+De esta forma, al contar con su cuenta BBVA Bancomer o Card Winner, los usuarios podrán descargar y utilizar la app BBVA Plan y con la funcionalidad de Meta Compartida, invitar a sus amigos, familiares o conocidos a ahorrar juntos por una Meta en común, y si no son cuentahabientes BBVA Bancomer, invitarlos a abrir una cuenta para utilizar la app.
 
 ## Resultado de nuestra encuesta
 
 Analizando los datos obtenidos, presentamos el siguiente resumen: 
 
-![resultados](https://user-images.githubusercontent.com/32878468/40351790-db6e74aa-5d72-11e8-9945-8a199d32cfed.png)
+![resultados](https://user-images.githubusercontent.com/32878468/40352131-b653cfd4-5d73-11e8-9e4d-d67ada6d9a7f.jpg)
