@@ -56,7 +56,9 @@ Como en todo juego, existe la rivalidad y cada participante de la Meta Compartid
 
 ## Modalidades de Q-CHITO: Lechón, Adolescente, Adulto
 
-![instructivo 3 1](https://user-images.githubusercontent.com/32878468/40359030-e477383e-5d86-11e8-9381-b8bd9fef9979.png)
+<div style="text-align:center"><img src ="
+https://user-images.githubusercontent.com/32878468/40359030-e477383e-5d86-11e8-9381-b8bd9fef9979.png" />
+</div>
 
 ## Algunos cambios propuestos para mejorar la experiencia de usuario en cuanto a la configuración de su meta:
 
