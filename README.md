@@ -62,4 +62,5 @@ Como en todo juego, existe la rivalidad y cada participante de la Meta Compartid
 
 ### Se propone cambiar el calendario por uno más amigable, en donde se le haga saber al usuario que ahí es donde va a establecer su fecha en la que pretende llegar a la Meta; así también, se unifica al color azul obscuro.
 
-![cambio1](https://user-images.githubusercontent.com/32878468/40360067-705a8bfa-5d8a-11e8-9886-391d49706869.jpg)
+<div style="text-align:center"><img src ="https://user-images.githubusercontent.com/32878468/40360067-705a8bfa-5d8a-11e8-9886-391d49706869.jpg" />
+</div>
