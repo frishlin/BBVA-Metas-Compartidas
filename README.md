@@ -67,3 +67,13 @@ Se propone cambiar el calendario por uno más amigable, en donde se le haga sabe
 Se propone eliminar los modos de ahorro como el de porcentaje, ya que en el Customer Journey se detectó que el usuario sufre una ligera confusión al intentar entender cómo funciona el ahorro por porcentajes. Por tanto, nuestra propuesta consiste en que el usuario configure su modo de ahorro, siendo las opciones Diario, Semanal, Quincenal, Mensual o Personalizado, según el periodo de su ahorro, mostrándandole una cantidad de ahorro mínima sugerida para llegar a su meta en el periodo establecido. 
 
 ![cambio2](https://user-images.githubusercontent.com/32878468/40361332-90731bba-5d8e-11e8-8be9-aeecd8b47930.jpg)
+
+## Diseño final
+
+El diseño final se muestra en la siguiente imagen, el cual fue realizado en Figma
+
+![flujo](https://user-images.githubusercontent.com/32878468/40361885-69e119a0-5d90-11e8-997b-de9048f42a1d.png)
+
+El flujo también fue realizado en Figma y se puede acceder desde la descripción del proyecto o haciendo clic [aquí](https://goo.gl/qZYuBg)
+
+![flujo1](https://user-images.githubusercontent.com/32878468/40361931-98df52d0-5d90-11e8-82b6-3e7ec8808077.JPG)
