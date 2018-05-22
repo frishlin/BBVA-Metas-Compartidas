@@ -6,9 +6,9 @@ Implementar una nueva funcionalidad en la app BBVA Plan, con la finalidad de que
 
 ## Team
 
-Product Owner: Gabriela Colín
-UX Designer: Abril Juárez & Dani Galindo
-UX Research: Marisol Juárez & Karina Becerra
+Product Owner: Gabriela Colín /
+UX Designer: Abril Juárez & Dani Galindo /
+UX Research: Marisol Juárez & Karina Becerra /
 Scrumm Máster: Brenda Milián & Itzel Molina
 
 ## Customer Journey Map
