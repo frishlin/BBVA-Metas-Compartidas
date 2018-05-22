@@ -53,3 +53,4 @@ Como en todo juego, existe la rivalidad y cada participante de la Meta Compartid
 ## Definiendo el funcionamiento del producto
 
 ![interaccion](https://user-images.githubusercontent.com/32878468/40358434-d82d3008-5d84-11e8-8526-5e0068e93e11.png)
+
