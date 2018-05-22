@@ -14,4 +14,10 @@ Empecemos conociendo al _Customer Journey_ para no solo implementar la funcional
 
 Realizamos una encuesta con preguntas basadas en respuesta, con la cual pudimos obtener los resultados que necesitábamos para definir a nuestro User Persona.
 
-### La encuesta puede verse en [Encuesta BBVA Plan Metas Compartidas](https://goo.gl/forms/L0jNy1lhYq3Jwfl13) 
+La encuesta puede verse en _[Encuesta BBVA Plan Metas Compartidas](https://goo.gl/forms/L0jNy1lhYq3Jwfl13)_ 
+
+## User Persona
+
+Con base en los resultados, pudimos definir dos perfiles de usuario, los cuales se presentan a continuación:
+
+![usuarios](https://user-images.githubusercontent.com/32878468/40336757-3f7365f6-5d31-11e8-8786-a75deb383497.png)
