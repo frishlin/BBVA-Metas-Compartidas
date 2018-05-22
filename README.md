@@ -80,12 +80,12 @@ El flujo también fue realizado en Figma y se puede acceder desde la descripció
 
 ## Kit de bienvenida BBVA Plan Meta Compartida
 
-Finalmente, se elaboró una réplica en madera del personaje Q-CHITO, el cual tiene accesorios con los cuales los pequeños del hogar pueden jugar, mientras los mayores van inculcando la cultura del ahorro a sus pequeños.
+Finalmente, se elaboró una réplica en madera del personaje Q-CHITO, el cual tiene accesorios con los cuales los pequeños del hogar pueden jugar, mientras los mayores van inculcando el ahorro a sus pequeños.
 
 ![qchito-kit](https://user-images.githubusercontent.com/32878468/40362987-c0e9a200-5d93-11e8-96d2-5122175f02b0.jpg)
 
 ## Herramientas utilizadas
 
-Figma
-Illustrator
-Google Forms
+- Figma
+- Illustrator
+- Google Forms
