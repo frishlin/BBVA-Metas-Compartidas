@@ -4,6 +4,13 @@ Implementar una nueva funcionalidad en la app BBVA Plan, con la finalidad de que
 
 ![instructivo 4 1](https://user-images.githubusercontent.com/32878468/40335402-0048ded6-5d29-11e8-91d0-33f8a0520bd8.png)
 
+## Team
+
+Product Owner: Gabriela Colín
+UX Designer: Abril Juárez & Dani Galindo
+UX Research: Marisol Juárez & Karina Becerra
+Scrumm Máster: Brenda Milián & Itzel Molina
+
 ## Customer Journey Map
 
 Empecemos conociendo al _Customer Journey_ para no solo implementar la funcionalidad, sino también para proponer mejoras a la app ya existente, con la finalidad de hacer más cómoda y entendible la experiencia del usuario por este servicio.
