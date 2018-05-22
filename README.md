@@ -35,3 +35,13 @@ Con base en los resultados, pudimos definir dos perfiles de usuario, el primero 
 Analizando los datos obtenidos, presentamos el siguiente resumen: 
 
 ![resultados](https://user-images.githubusercontent.com/32878468/40355888-2d9c0738-5d7d-11e8-936b-60a35d215343.jpg)
+
+## Propuesta de solución
+
+Implementar la funcionalidad de Meta Compartida en la app BBVA Plan en forma de un juego, en el cual, el personaje principal es Q-CHITO, un cerdito que inicia como lechón y poco a poco se va convirtiendo en adulto hasta lograr la meta establecida, en donde al ir comprando objetos para personalizarlo, esa compra es el ahorro que se va guardando en la cuenta virtual. Cuando el usuario invita a un conocido a unirse a su meta, si éste acepta, en automático la Meta se divide en dos y ambos tendrán que aportar la misma cantidad.
+
+En caso de que el usuario no sea cuentahabiente Bancomer, le será enviado un mensaje de texto a su teléfono para invitarlo a unirse a uno de los mejores bancos en México y apoyar a su amigo para que alcance la meta más rápido.
+
+Como en todo juego, existe la rivalidad y cada participante de la Meta Compartida, puede ver el avance de su compañero y saber qué tan avanzado o retrasado va de su meta, visualizando de manera gráfica el crecimiento de su Q-CHITO.
+
+![promo](https://user-images.githubusercontent.com/32878468/40358088-c6cd161c-5d83-11e8-82a7-49b0f5a78f56.png)
