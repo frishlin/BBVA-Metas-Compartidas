@@ -45,3 +45,11 @@ En caso de que el usuario no sea cuentahabiente Bancomer, le será enviado un me
 Como en todo juego, existe la rivalidad y cada participante de la Meta Compartida, puede ver el avance de su compañero y saber qué tan avanzado o retrasado va de su meta, visualizando de manera gráfica el crecimiento de su Q-CHITO.
 
 ![promo](https://user-images.githubusercontent.com/32878468/40358088-c6cd161c-5d83-11e8-82a7-49b0f5a78f56.png)
+
+## Definiendo la estructura del producto
+
+![solucion](https://user-images.githubusercontent.com/32878468/40358379-ad6ea162-5d84-11e8-8fce-8f7c261993c1.png)
+
+## Definiendo el funcionamiento del producto
+
+![interaccion](https://user-images.githubusercontent.com/32878468/40358434-d82d3008-5d84-11e8-8526-5e0068e93e11.png)
