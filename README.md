@@ -58,8 +58,12 @@ Como en todo juego, existe la rivalidad y cada participante de la Meta Compartid
 
 ![Modalidades](https://user-images.githubusercontent.com/32878468/40359030-e477383e-5d86-11e8-9381-b8bd9fef9979.png)
 
-## Algunos cambios propuestos para mejorar la experiencia de usuario en cuanto a la configuración de su meta:
+## Algunos cambios sugeridos a la app actual:
 
-### Se propone cambiar el calendario por uno más amigable, en donde se le haga saber al usuario que ahí es donde va a establecer su fecha en la que pretende llegar a la Meta; así también, se unifica al color azul obscuro.
+Se propone cambiar el calendario por uno más amigable, en donde se le haga saber al usuario que ahí es donde va a establecer su fecha en la que pretende llegar a la Meta; así también, se unifica al color azul obscuro.
 
 ![propuesta-cambio-1](https://user-images.githubusercontent.com/32878468/40360067-705a8bfa-5d8a-11e8-9886-391d49706869.jpg)
+
+Se propone eliminar los modos de ahorro como el de porcentaje, ya que en el Customer Journey se detectó que el usuario sufre una ligera confusión al intentar entender cómo funciona el ahorro por porcentajes. Por tanto, nuestra propuesta consiste en que el usuario configure su modo de ahorro, siendo las opciones Diario, Semanal, Quincenal, Mensual o Personalizado, según el periodo de su ahorro, mostrándandole una cantidad de ahorro mínima sugerida para llegar a su meta en el periodo establecido. 
+
+![cambio2](https://user-images.githubusercontent.com/32878468/40361332-90731bba-5d8e-11e8-8be9-aeecd8b47930.jpg)
