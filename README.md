@@ -56,13 +56,10 @@ Como en todo juego, existe la rivalidad y cada participante de la Meta Compartid
 
 ## Modalidades de Q-CHITO: Lechón, Adolescente, Adulto
 
-<div style="text-align:center"><img src ="
-https://user-images.githubusercontent.com/32878468/40359030-e477383e-5d86-11e8-9381-b8bd9fef9979.png" />
-</div>
+![Modalidades](https://user-images.githubusercontent.com/32878468/40359030-e477383e-5d86-11e8-9381-b8bd9fef9979.png)
 
 ## Algunos cambios propuestos para mejorar la experiencia de usuario en cuanto a la configuración de su meta:
 
 ### Se propone cambiar el calendario por uno más amigable, en donde se le haga saber al usuario que ahí es donde va a establecer su fecha en la que pretende llegar a la Meta; así también, se unifica al color azul obscuro.
 
-<div style="text-align:center"><img src ="https://user-images.githubusercontent.com/32878468/40360067-705a8bfa-5d8a-11e8-9886-391d49706869.jpg" />
-</div>
+![propuesta-cambio-1](https://user-images.githubusercontent.com/32878468/40360067-705a8bfa-5d8a-11e8-9886-391d49706869.jpg)
