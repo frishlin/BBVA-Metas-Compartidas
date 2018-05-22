@@ -24,7 +24,10 @@ Con base en los resultados, pudimos definir dos perfiles de usuario, los cuales 
 
 ![usuarios](https://user-images.githubusercontent.com/32878468/40336757-3f7365f6-5d31-11e8-8786-a75deb383497.png)
 
-Según nuestras investigaciones, las personas que utilizan esta app son en su mayoría mujeres, con un rango de edad entre los 23 a 35 años, por lo que decidimos orientar nuestra propuesta no solo a esta público mediante una propuesta de fidelización, sino también, atraer nuevo público, que en este caso son los jóvenes a partir de los 17 años que, por concepto de beca, ya han tenido uso de tarjetas de débito o ahorro y que fácilmente podrían ser atraidos a utilizar esta app y abrir una cuenta con BBVA Bancomer para este fin, así como ellos mismos, invitando a sus amigos, familiares o conocidos a probar esta app, principalmente para el uso de la funcionalidad de Meta Compartida.
+Según nuestras investigaciones, las personas que utilizan esta app son en su mayoría mujeres, con un rango de edad entre los 23 a 35 años, por lo que decidimos orientar nuestra propuesta no solo a esta público mediante una propuesta de fidelización, sino también, atraer nuevo público, que en este caso son los jóvenes a partir de los 17 años que, por concepto de beca, ya han tenido uso de tarjetas de débito o ahorro y que fácilmente podrían ser atraidos a utilizar esta app y abrir una cuenta con BBVA Bancomer para este fin, así como invitar a sus amigos, familiares o conocidos a probar esta app, principalmente para el uso de la funcionalidad de Meta Compartida.
 
 ## Resultado de nuestra encuesta
 
+Analizando los datos obtenidos, presentamos el siguiente resumen: 
+
+![resultados](https://user-images.githubusercontent.com/32878468/40351790-db6e74aa-5d72-11e8-9945-8a199d32cfed.png)
